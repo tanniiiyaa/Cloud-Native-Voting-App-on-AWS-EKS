@@ -41,5 +41,5 @@ spec:
               path: /ok
               port: 8080
             initialDelaySeconds: 5
-              periodSeconds: 5
-            successThreshold: 1
+            periodSeconds: 5
+          successThreshold: 1
