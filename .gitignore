@@ -1,0 +1,15 @@
+# Local AWS / Kubernetes credentials
+.kube/
+*.kubeconfig
+.env
+.env.*
+*.pem
+*.key
+
+# Local backups
+*.bak
+
+# IaC state if added later
+.terraform/
+*.tfstate
+*.tfstate.*
